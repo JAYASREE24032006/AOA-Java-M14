@@ -1,6 +1,6 @@
 # EX 4B Frog Jump - Dynamic Programming
 
-## DATE: 16-10-2025
+
 
 ## AIM:
 
