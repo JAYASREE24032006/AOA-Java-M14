@@ -81,6 +81,4 @@ public class LongestIncreasingSubsequence {
 
 The program was successfully implemented using Dynamic Programming and the expected output was verified.
 
----
 
-If you want **EX 5A, 5B, 5C** also prepared, just tell me!
